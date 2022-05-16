@@ -1,0 +1,14 @@
+@import url('https://fonts.googleapis.com/css2?family=Kaushan+Script&family=Roboto:ital,wght@0,100;0,400;0,500;0,900;1,100;1,400&display=swap');
+
+:root{
+    font-size: 24px;
+    font-family: 'Roboto', sans-serif;
+}
+
+body{
+    background-color: hsl(4, 70%, 98%);
+}
+
+.header{
+    background-image: url(./icon.svg);
+}
